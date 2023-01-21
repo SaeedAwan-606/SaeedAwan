@@ -21,6 +21,8 @@ pip install requests
 
 pip install mechanize
 
+rm -rf SaeedAwan
+
 git clone https://github.com/SaeedAwan-606/SaeedAwan
 
 cd SaeedAwan 
