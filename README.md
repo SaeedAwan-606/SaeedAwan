@@ -29,4 +29,4 @@ cd SaeedAwan
 
 python AWAN_enc.py 
 
-     Tnks for using my tools 💓🥀
+     Tnks for using my tools 💓
